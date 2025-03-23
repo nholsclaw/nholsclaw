@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<!--
+![20250320_104545](https://github.com/user-attachments/assets/5aaf8a58-d845-450e-9c00-b2aa06dda7cd)
+### This is a photo from the coast of Massachusetts I took on 03/20/2025.
+### Welcome to my GitHub -  you'll find various files here for my courses at Duke as part of the Masters of Environmental Management Program. This repository is for my Statistical Modeling course.
+### You can find me on LinkedIn: [Natalie Holsclaw](https://www.linkedin.com/in/natalieholsclaw/)
+
+
+<!--![20250320_104545](https://github.com/user-attachments/assets/0a11bde2-c5d9-4f66-8c4d-fb000f35e341)
+
 **nholsclaw/nholsclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
